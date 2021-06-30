@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rajaneesh
 - 👀 I’m interested in data science 
-- 🌱 I’m currently improving my mysql, NLP abilities
+- 🌱 I’m currently improving my sql, NLP knowledge
 - 💞️ I’m looking to work in Data science field and improve my capabilities.
 - 📫 How to reach me mail rajaneesh1998@gmail.com
 
