@@ -2,7 +2,7 @@
 - 👀 I’m interested in data science 
 - 🌱 I’m currently improving my Python and NLP knowledge
 - 💞️ I’m looking to work in Data science field and improve my capabilities.
-- 📫 How to reach me mail rajaneesh1998@gmail.com
+- 📫 reach me through rajaneesh1998@gmail.com
 
 <!---
 Rajaneesh98/Rajaneesh98 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
