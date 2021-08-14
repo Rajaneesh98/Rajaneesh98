@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Rajaneesh
-- 👀 I’m interested in data science 
-- 🌱 I’m currently improving my Python and NLP knowledge
-- 💞️ I’m looking to work in Data science field and improve my capabilities.
+- 👀 I’m interested in web development. 
+- 🌱 I’m currently improving my java and javascript knowledge.
+- 💞️ I’m looking forward for to develop some amazing projects.
 - 📫 reach me through rajaneesh1998@gmail.com
 
 <!---
